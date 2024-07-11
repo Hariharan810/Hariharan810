@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/code_infinity_" target="blank"><img src="https://img.shields.io/twitter/follow/code_infinity_?logo=twitter&style=for-the-badge" alt="code_infinity_" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and DSA**
+- 🔭 I’m currently working on Fullstack and DSA**
 
-- 🌱 I’m currently learning **Java, DSA, ML concepts**
+- 🌱 I’m currently learning **Java, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hariharan810/PORTFOLIO-PROJECT.git](https://github.com/Hariharan810/PORTFOLIO-PROJECT.git)
 
